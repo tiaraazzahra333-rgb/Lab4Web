@@ -12,13 +12,13 @@ Praktikum ini bertujuan untuk memahami struktur dasar layout, konsep Box Element
 
 ## 2. Box Element dan CSS Float
 
-Pada tahap ini, saya membuat file `lab4_box.html` untuk mempelajari penggunaan elemen div, padding, background, dan properti float.
+Pada tahap ini, saya membuat file `lab4_box.html` untuk mempelajari penggunaan elemen `div`, padding, background, dan properti float.
 
 Properti float digunakan untuk mengatur posisi elemen, sedangkan clear digunakan agar elemen berikutnya tidak berada di samping elemen yang mengambang.
 
 ### Screenshot Box Element
 
-Screenshot: `screenshot/01-box-element.png`
+![Hasil Box Element](screenshot/01-box-element.png)
 
 ## 3. Membuat Layout Website
 
@@ -28,7 +28,7 @@ Layout website terdiri dari header, navigasi, hero panel, main content, sidebar,
 
 ### Screenshot Home
 
-Screenshot: `screenshot/02-home.png`
+![Halaman Home](screenshot/05-home.png)
 
 ## 4. Membuat Halaman About
 
@@ -36,7 +36,7 @@ Halaman About berisi deskripsi diri, keahlian, dan portofolio pembelajaran. Hala
 
 ### Screenshot About
 
-Screenshot: `screenshot/03-about.png`
+![Halaman About](screenshot/04-about.png)
 
 ## 5. Membuat Halaman Contact
 
@@ -44,9 +44,13 @@ Halaman Contact berisi formulir nama lengkap, email, subjek, dan message. Formul
 
 Formulir ini merupakan demonstrasi tampilan dan validasi di browser, belum terhubung dengan server untuk mengirim atau menyimpan pesan.
 
-### Screenshot Contact
+### Screenshot Contact Kosong
 
-Screenshot: `screenshot/04-contact.png`
+![Halaman Contact Kosong](screenshot/02-contact-kosong.png)
+
+### Screenshot Contact Terisi
+
+![Halaman Contact Terisi](screenshot/03-contact-terisi.png)
 
 ## 6. Kesimpulan
 
